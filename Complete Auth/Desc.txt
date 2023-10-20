@@ -1,0 +1,6 @@
+A complete Authentication MERN app
+
+-> Signup.
+-> Email verification required after signup to use that account.
+-> Login.
+-> reset password.
