@@ -1,0 +1,7 @@
+A Student Result MERN app with QR verification
+
+-> Result Data Stored By admin
+-> User can Enter the Application id and date to get the result.
+-> User can download the pdf of result.
+-> pdf contains a QR code.
+-> Scanning the QR code leads to that particular result on our web app.

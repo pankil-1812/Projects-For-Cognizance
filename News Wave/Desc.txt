@@ -1,0 +1,5 @@
+A normal News Feed React app.
+
+-> News feed without login.
+-> No auth.
+-> Sort News according to different categories.

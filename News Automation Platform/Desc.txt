@@ -1,0 +1,6 @@
+A News Automation app for the ministers of india.
+
+-> project to be used for SIH
+-> Complete Auth
+-> News feed without login
+-> Ministers Can report news as fake or real...

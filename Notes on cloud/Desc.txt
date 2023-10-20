@@ -1,0 +1,6 @@
+Notes on cloud App using MERN
+
+-> Auth
+-> User can add Notes
+-> User can delete Notes.
+-> User can Edit Notes.
